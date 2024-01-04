@@ -1,0 +1,26 @@
+*{
+       margin: 0px; 
+       width: 100%;       
+}
+.blog-1{
+              background-color: blue; 
+              color: aliceblue;
+              padding: 10px;
+              
+}
+.blog-1 h1{
+                text-align: center;
+                padding-bottom: 20px;
+}
+.blog-2{
+                background-color: azure;
+                padding: 10px;
+}
+.blog-2 h1{
+                text-align: center;
+                padding: 20px;
+}
+
+.blog-3{
+                background-image: url(..//bg.jpg);
+}
