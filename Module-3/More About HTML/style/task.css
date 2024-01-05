@@ -67,6 +67,7 @@ form{
 h2{
                 font-size: 54px;
                 display: flex;
+                flex-direction: column;
                 justify-content: center;
 
 }
@@ -79,3 +80,21 @@ h2{
 .box-4{
                 padding: 0px 20px;
 }
+      
+.box-5 {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+}
+            
+table {
+                border-collapse: collapse;
+                margin: auto; /* Center the table horizontally */
+}
+            
+td, th {
+                border: 2px solid gray;
+                padding: 5px 10px;
+ }
+            
