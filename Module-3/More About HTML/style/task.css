@@ -63,3 +63,19 @@ form{
                 flex-direction: column;
                 gap: 20px;
 }
+
+h2{
+                font-size: 54px;
+                display: flex;
+                justify-content: center;
+
+}
+.box-3 ,p {
+                font-size: 22px;
+                padding: 0px 20px;
+
+}
+
+.box-4{
+                padding: 0px 20px;
+}
