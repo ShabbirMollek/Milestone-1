@@ -1,0 +1,44 @@
+*{
+                /* margin: 0px;
+                padding: 0px;
+                height: 40vh;  */
+                background-color:azure;
+               
+          
+}
+h1{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 110px;
+                font-weight: 500;
+                padding-top: 220px;
+               
+                color:rgb(44, 75, 44)
+                           
+}
+
+nav > ul  {
+                display: flex;
+                justify-content: center;
+               
+               
+                
+}
+
+nav li {
+                list-style: none;
+                margin-right: 20px;
+                padding: 10px;
+                font-size: 38px;
+
+}
+nav li a {
+                text-decoration: none;
+                color: darkorange;
+}
+
+nav li:hover{
+                background-color: darkgoldenrod;
+               
+}
