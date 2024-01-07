@@ -167,3 +167,13 @@ main section{
                 text-align: center;
                 margin-top: 50px;
 }
+
+/* footer style */
+
+footer{
+                display: flex;
+                padding: 130px 200px;
+                margin-top: 120px;
+                background-color: antiquewhite;
+                
+}
